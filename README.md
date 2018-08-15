@@ -1,4 +1,4 @@
-
+[![](https://jitpack.io/v/Omega-R/OmegaAnimatedText.svg)](https://jitpack.io/#Omega-R/OmegaAnimatedText)
 # AnimatedText
 Android lib to animate bold and italic transformations in TextView.
 
@@ -17,7 +17,7 @@ allprojects {
 App module build.gradle:
 ``` groovy
 dependencies {
-    implementation '[insert]'
+    implementation 'com.github.Omega-R:OmegaAnimatedText:$version'
 }
 ```
 
