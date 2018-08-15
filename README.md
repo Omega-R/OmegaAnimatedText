@@ -8,16 +8,16 @@ Add dependencies to your gradle file.
 Project build.gradle:
 ``` groovy
 allprojects {
-repositories {
-maven { url 'https://jitpack.io' }
-}
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
 App module build.gradle:
 ``` groovy
 dependencies {
-implementation '[insert]'
+    implementation '[insert]'
 }
 ```
 
