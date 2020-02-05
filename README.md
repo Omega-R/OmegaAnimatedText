@@ -48,7 +48,7 @@ Both methods returns android.animation.Animator instance so you can make animati
 ```
 The MIT License
 
-Copyright 2018 Omega-R
+Copyright 2020 Omega-R
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
 associated documentation files (the "Software"), to deal in the Software without restriction, 
