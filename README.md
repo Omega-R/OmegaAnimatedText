@@ -22,9 +22,11 @@ allprojects {
 **Step 2.** Add the dependency
 ```
 dependencies {
-    implementation 'com.github.Omega-R:OmegaAnimatedText:v1.0.0'
+    implementation 'com.github.Omega-R:OmegaAnimatedText:v2.0.0'
 }
 ```
+
+For Support library the latest version is '1.0.0'
 
 # Usage
 Start animation:

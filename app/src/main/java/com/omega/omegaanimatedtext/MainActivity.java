@@ -1,8 +1,9 @@
 package com.omega.omegaanimatedtext;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.omega.animatedtext.AnimatedTextView;
 
