@@ -22,7 +22,7 @@ allprojects {
 **Step 2.** Add the dependency
 ```
 dependencies {
-    implementation 'com.github.Omega-R:OmegaAnimatedText:v2.0.0'
+    implementation 'com.github.Omega-R:OmegaAnimatedText:2.0.0'
 }
 ```
 
