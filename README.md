@@ -22,9 +22,11 @@ allprojects {
 **Step 2.** Add the dependency
 ```
 dependencies {
-    implementation 'com.github.Omega-R:OmegaAnimatedText:v1.0.0'
+    implementation 'com.github.Omega-R:OmegaAnimatedText:v2.0.0'
 }
 ```
+
+For Support library the latest version is '1.0.0'
 
 # Usage
 Start animation:
@@ -46,7 +48,7 @@ Both methods returns android.animation.Animator instance so you can make animati
 ```
 The MIT License
 
-Copyright 2018 Omega-R
+Copyright 2020 Omega-R
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
 associated documentation files (the "Software"), to deal in the Software without restriction, 
